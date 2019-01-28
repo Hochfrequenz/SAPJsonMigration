@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ECMigration": {
+      "commandName": "Project",
+      "commandLineArgs": "\"H:\\Kunden\\enercity\\Projekte\\Migration B2C\\ObjektFields.txt\" -D \"H:\\Kunden\\enercity\\Projekte\\Migration B2C\\Entladung_20190122\" -M \"H:\\Kunden\\enercity\\Projekte\\Migration B2C\\Mapping_Definitions\" -O \"H:\\Kunden\\enercity\\Projekte\\Migration B2C\\Mapping_Test\" -T \"H:\\Kunden\\enercity\\Projekte\\Migration B2C\\Mappings_Tables\""
+    }
+  }
+}
